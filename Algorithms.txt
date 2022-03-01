@@ -1,0 +1,18 @@
+Algorithms to learn:
+
+Gradient Boosting
+Support Vector Machine
+XGBoost
+Multi-label Decision Trees
+Multi-label Random Forests
+Multi-label Gradient Boosting
+
+Composition of samples in the training dataset by undersampling
+the majority class or oversampling the minority class.
+
+Cost-sensitive Logistic Regression.
+
+
+
+
+konerunatwar@gmail.com	1234google
